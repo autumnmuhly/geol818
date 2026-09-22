@@ -1,0 +1,2 @@
+import datareading
+datareading.readmydata()
