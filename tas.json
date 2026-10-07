@@ -1,0 +1,132 @@
+{
+    "x": "SiO2 wt%",
+    "y": "Na2+K2O wt%",
+    "regions": [
+        {
+            "name": "basalt",
+            "vertices": [
+                [45,1],
+                [45,5],
+                [52,5],
+                [52,1]
+            ]
+        },
+        {
+            "name": "basaltic andesite",
+            "vertices": [
+                [52,1],
+                [52,5],
+                [57,6],
+                [57,1]
+            ]
+        },
+        {
+            "name": "andesite",
+            "vertices":[
+                [57,1],
+                [57,6],
+                [63,7],
+                [63,1]
+            ]       
+        },
+        {
+            "name": "dacite",
+            "vertices":[
+                [63,1],
+                [63,7],
+                [70,7.5],
+                [76,1]
+            ]       
+        },
+        {
+            "name": "trachybasalt",
+            "vertices":[
+                [45,5],
+                [49,7],
+                [52,5]
+            ]       
+        },
+        {
+            "name": "basaltic trachyandesite",
+            "vertices":[
+                [52,5],
+                [49,7],
+                [53,9],
+                [57,6]
+            ]       
+        },
+        {
+            "name": "trachyandesite",
+            "vertices":[
+                [57,6],
+                [53,9],
+                [57,11.5],
+                [63,7]
+            ]       
+        },
+        {
+            "name": "Trachydacite",
+            "vertices":[
+                [70,7.5],
+                [63,7],
+                [57,11.5],
+                [61,13],
+                [70,13]
+            ]       
+        },
+        {
+            "name": "tephrite basanite",
+            "vertices":[
+                [41,3],
+                [41,7],
+                [45,9],
+                [49,7],
+                [45,5],
+                [45,3]
+            ]       
+        },
+        {
+            "name": "picro basalt",
+            "vertices":[
+                [41,1],
+                [41,3],
+                [45,3],
+                [45,1]
+            ]       
+        },
+        {
+            "name": "phonotephrite",
+            "vertices":[
+                [49,7],
+                [45,9],
+                [49,11.5],
+                [53,9]
+            ]       
+        },
+        {
+            "name": "tephriphonolite",
+            "vertices":[
+                [53,9],
+                [49,11.5],
+                [53,14],
+                [57,11.5]
+            ]       
+        },
+        {
+            "name": "phonolite",
+            "vertices":[
+                [61,13],
+                [57,11.5],
+                [53,14]
+            ]       
+        },
+        {
+            "name": "rhyolite",
+            "vertices":[
+                [76,1],
+                [70,7.5],
+                [70,13]
+            ]       
+        }
+    ]
+}
